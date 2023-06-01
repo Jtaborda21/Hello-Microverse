@@ -190,7 +190,7 @@ If you like this project, I would like you to contact me for future projects
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank to all Microverse program and my partnes.
+I would like to thank to Microverse program.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,6 +198,5 @@ I would like to thank to all Microverse program and my partnes.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
